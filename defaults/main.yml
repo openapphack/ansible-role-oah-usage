@@ -1,12 +1,13 @@
 ---
+oah_command: install
 #default oah_usage_cron_freq
-oah_usage_cron_freq
+oah_usage_cron_freq:
 
 #default oah_usage_stats_repo
-oah_usage_stats_repo
+oah_usage_stats_repo:
 
 #default oah_usage_stats_repo_user
-oah_usage_stats_repo_user
+oah_usage_stats_repo_user:
 
 #default oah_usage_stats_repo_key
-oah_usage_cron_freq
+oah_usage_cron_freq:
