@@ -1,4 +1,6 @@
 ---
+- debug:
+    msg: "oah-install of oah.remove"
 #remove oah user and
 
 #remove oah env user

@@ -1,4 +1,6 @@
 ---
+- debug:
+    msg: "oah-update of oah.usage"
 # update oah user name
 
 # update oah user gitlab key

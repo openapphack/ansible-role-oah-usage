@@ -10,4 +10,4 @@ oah_usage_stats_repo:
 oah_usage_stats_repo_user:
 
 #default oah_usage_stats_repo_key
-oah_usage_cron_freq:
+oah_usage_stats_repo_key:
